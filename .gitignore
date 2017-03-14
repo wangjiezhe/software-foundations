@@ -4,5 +4,7 @@
 *.mli
 *.toc
 *.vo
+*.aux
+*Test.v
 src/all.pdf
 src/html
